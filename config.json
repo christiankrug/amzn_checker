@@ -1,0 +1,14 @@
+{
+  "sheet_id": "19dm4B0QJsSSe7h5bwAsXG2E-Sx3CFyQd3_fnhNivu9k",
+  "debug": true,
+  "base_sheet_url": "https://sheets.googleapis.com/v4/spreadsheets/",
+  "amazon_availability_field": "availability",
+  "gsa_credentials_file": "gsa-credentials.json",
+  "sheet_structure": {
+    "PROJECT_ID_FIELD": 0,
+    "MAIN_LINK_FIELD": 1,
+    "MAIN_STATUS_FIELD": 2,
+    "ALTERNATIVE_LINK_FIELD": 3,
+    "ALTERNATIVE_STATUS_FIELD": 4
+  }
+}
